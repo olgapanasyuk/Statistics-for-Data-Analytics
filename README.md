@@ -16,8 +16,8 @@ The prepared dataset consists of the following data for each country:
 +	Literacy parity index;
 +	Literacy rate females;
 +	Literacy rate males;
-+	Singulate age women(\*), years;
-+	Singulate age men(\*), years;
++	Singulate age women<sup>(\*)</sup>, years;
++	Singulate age men<sup>(\*)</sup>, years;
 +	Number of marriages;
 +	Population female;
 +	Population male;
