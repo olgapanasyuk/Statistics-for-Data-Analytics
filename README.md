@@ -22,5 +22,5 @@ The prepared dataset consists of the following data for each country:
 +	Population female;
 +	Population male;
 
-<span style="font-size:2;">(\*) Singulate means number of years spend in single status, before first marriage.</span>
+<span style="font-size:2">(\*) Singulate means number of years spend in single status, before first marriage.</span>
 
