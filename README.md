@@ -6,3 +6,20 @@ As data was collated from different sources, some of the variables are coming fr
 The data on literacy, singulate age, numbers in education, population size was available only in certain years, because by nature it is generally collected during population censuses. These data were taken with reference to the most recent available year.
 
 There are overall 115 observations, of which only 33 are complete (i.e. all variables have values).
+
+The prepared dataset consists of the following data for each country:
+•	Number of divorces;
+•	Number of females in third level education;
+•	Number of males in third level education;
+•	GDP per capita, USD;
+•	Literacy parity index;
+•	Literacy rate females;
+•	Literacy rate males;
+•	Singulate age women(\*), years;
+•	Singulate age men(\*), years;
+•	Number of marriages;
+•	Population female;
+•	Population male;
+
+(*) Singulate means number of years spend in single status, before first marriage.
+
